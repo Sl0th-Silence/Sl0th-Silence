@@ -1,42 +1,35 @@
-# Jay Mills
-### Software Developer
-
-## Quick About
-##*Hello everyone!*
-
-I am a software developer from Kingston Ontario, currently in my 2nd year of Computer Programming and Analysis at St. Lawerence College. 
-After spending 5 years playing around with Python and SQL, I decided it was time to focus up and go back to school.
----
-## Projects
----
-##Housing Market Site for Kingston
-This is a project I feel close to as I live in this town and wanted some close accurate results.
-
-*WEB SCRAPER*
-I started with a web scraper made in Python using the request library to pull the html page from a local site. 
-I iterated through each page, pulled information, saved and uploaded it to a MongoDB collection. 
-
-*API*
-After the scraper, I made an Express API in Javascript and pulled the database in to be sent out to my front end. I only made one route (for now) and sent te information as a JSON file.
-
-*FRONTEND*
-I use ReactJS to grab the JSON data, parse it and upload it to my site. 
-
-Over this project, I have learned so much about full stack development in Javascript.
-Working on a multi-page project has been challenging but I have learned tons about how different programs and softwares can work together.
+# **Jay Mills**  
+### *Software Developer*  
 
 ---
-<!--
-**Sl0th-Silence/Sl0th-Silence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## **Quick About**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hello everyone!** 👋  
+
+I’m a software developer from Kingston, Ontario, currently in my second year of the **Computer Programming and Analysis** program at **St. Lawrence College**.  
+
+After spending five years exploring **Python** and **SQL**, I decided it was time to focus and pursue a formal education in software development.  
+
+---
+
+## **Projects**  
+
+### 🏠 **Housing Market Site for Kingston**  
+
+This is a project I feel close to, as I live in Kingston and wanted to build something that provides accurate local housing data.  
+
+#### **Web Scraper**  
+I started by building a **Python web scraper** using the `requests` library to pull HTML pages from a local real estate site.  
+The scraper iterates through each page, extracts key information, and stores it in a **MongoDB collection**.  
+
+#### **API**  
+Next, I developed an **Express.js API** to serve the data.  
+It connects to the MongoDB database and exposes the information through a simple JSON endpoint (for now, a single route).  
+
+#### **Frontend**  
+Finally, I built a **ReactJS frontend** to fetch, parse, and display the data from the API.  
+
+Through this project, I’ve gained a deep understanding of **full-stack JavaScript development** and learned how different tools and technologies can integrate to create a cohesive application.  
+
+---
