@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -50,11 +50,18 @@ Through this project, I’ve gained a deep understanding of **full-stack JavaScr
 ### 🧠 **Tech Stack Summary**
 <br>
 | Technologies |  
+
 |-----------|---------------|  
+
 | **Languages** | Python, JavaScript, C++, C#, COBOL, SQL, R |  
+
 | **Frontend** | React, HTML5, CSS3 |  
+
 | **Backend** | Node.js, Express.js |  
+
 | **Databases** | MongoDB, MySQL |  
+
 | **Tools** | Git, VS Code, Visual Studio, RStudio, Pycharm |  
+
 
 ---
