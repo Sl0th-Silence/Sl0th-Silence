@@ -55,7 +55,7 @@ Through this project, I’ve gained a deep understanding of **full-stack JavaScr
 | **Languages** | Python, JavaScript, C++, C#, COBOL, SQL, R ||<br>
 | **Frontend** | React, HTML5, CSS3 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|<br>
 | **Backend** | Node.js, Express.js |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|<br>
-| **Databases** | MongoDB, MySQL |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    &emsp;|<br>
+| **Databases** | MongoDB, MySQL |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   &emsp;|<br>
 | **Tools** | Git, VS Code, Visual Studio, RStudio, Pycharm | |<br>
 +----------------------------------------------------------------+<br>
 
