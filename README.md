@@ -52,7 +52,7 @@ Through this project, I’ve gained a deep understanding of **full-stack JavaScr
 <br>
 ========================| *Technologies* |==========================<br>
 +----------------------------------------------------------------+<br>
-|                                                                |<br>
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|<br>
 | **Languages** | Python, JavaScript, C++, C#, COBOL, SQL, R |   |<br>
 |                                                                |<br>
 | **Frontend** | React, HTML5, CSS3 |                            |<br>
