@@ -50,7 +50,8 @@ Through this project, I’ve gained a deep understanding of **full-stack JavaScr
 ---
 
 <br>
-========================| *Technologies* |==========================<br>
+
+<h3 align="center">Technologies</h3>
 <table>
   <tr>
     <th>Languages</th>
