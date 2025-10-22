@@ -18,7 +18,7 @@
 
 ## **Quick About**  
 
-**Hello everyone!** 👋  
+**Hello everyone!**
 
 I’m a software developer from **Kingston, Ontario**, currently in my second year of the **Computer Programming and Analysis** program at **St. Lawrence College**.  
 
@@ -28,40 +28,41 @@ After spending five years exploring **Python** and **SQL**, I decided it was tim
 
 ## **Projects**  
 
-### 🏠 **Housing Market Site for Kingston**  
+### **Housing Market Site for Kingston**  
 
 This is a project I feel close to, as I live in Kingston and wanted to build something that provides accurate local housing data.  
 
-#### **🕸 Web Scraper**  
+### **What I learned throughout this Project**
+
+#### **Web Scraping**  
 Built a **Python web scraper** using the `requests` library to pull HTML pages from a local real estate site.  
 The scraper iterates through each page, extracts key information, and stores it in a **MongoDB** collection.  
 
-#### **⚙️ API**  
+#### **API's**  
 Developed an **Express.js API** to serve the data.  
 It connects to the MongoDB database and exposes the information through a simple JSON endpoint (currently one route).  
 
-#### **💻 Frontend**  
+#### **Frontend**  
 Created a **ReactJS frontend** to fetch, parse, and display the data from the API.  
 
 Through this project, I’ve gained a deep understanding of **full-stack JavaScript development** and learned how different tools and technologies integrate to build a cohesive application.  
 
 ---
 
-### 🧠 **Tech Stack Summary**
 <br>
-| Technologies |  
-
-|-----------|---------------|  
-
-| **Languages** | Python, JavaScript, C++, C#, COBOL, SQL, R |  
-
-| **Frontend** | React, HTML5, CSS3 |  
-
-| **Backend** | Node.js, Express.js |  
-
-| **Databases** | MongoDB, MySQL |  
-
-| **Tools** | Git, VS Code, Visual Studio, RStudio, Pycharm |  
-
+========================| *Technologies* |==========================  
++----------------------------------------------------------------+
+|                                                                |
+| **Languages** | Python, JavaScript, C++, C#, COBOL, SQL, R |   |
+|                                                                |
+| **Frontend** | React, HTML5, CSS3 |                            |
+|                                                                |
+| **Backend** | Node.js, Express.js |                            |
+|                                                                |
+| **Databases** | MongoDB, MySQL |                               |
+|                                                                |
+| **Tools** | Git, VS Code, Visual Studio, RStudio, Pycharm |    |
+|                                                                |
++----------------------------------------------------------------+
 
 ---
