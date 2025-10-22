@@ -30,7 +30,10 @@ After spending five years exploring **Python** and **SQL**, I decided it was tim
 
 ### **Housing Market Site for Kingston**  
 
-This is a project I feel close to, as I live in Kingston and wanted to build something that provides accurate local housing data.  
+This is a web scraper that inserts the data into a database collection, pulls it out using an API, and sends it to a React front end page. 
+This is a project I feel close to, as I live in Kingston and wanted to build something that provides accurate local housing data.
+
+### *Full Project Pinned To Top*
 
 ### **What I learned throughout this Project**
 
