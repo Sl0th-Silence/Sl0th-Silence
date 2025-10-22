@@ -50,7 +50,7 @@ Through this project, I’ve gained a deep understanding of **full-stack JavaScr
 ---
 
 <br>
-
+<div align="center">
 <h3 align="center">Technologies</h3>
 <table style="width:100%; border-collapse: collapse; border: 2px solid #666;">
   <tr>
@@ -67,3 +67,6 @@ Through this project, I’ve gained a deep understanding of **full-stack JavaScr
   </tr>
   
 </table>
+
+  
+</div>
