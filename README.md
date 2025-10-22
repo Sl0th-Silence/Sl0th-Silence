@@ -51,12 +51,18 @@ Through this project, I’ve gained a deep understanding of **full-stack JavaScr
 
 <br>
 ========================| *Technologies* |==========================<br>
-+----------------------------------------------------------------+<br>
-| **Languages** | Python, JavaScript, C++, C#, COBOL, SQL, R ||<br>
-| **Frontend** | React, HTML5, CSS3 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|<br>
-| **Backend** | Node.js, Express.js |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|<br>
-| **Databases** | MongoDB, MySQL |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   &emsp;|<br>
-| **Tools** | Git, VS Code, Visual Studio, RStudio, Pycharm | |<br>
-+----------------------------------------------------------------+<br>
-
----
+<table>
+  <tr>
+    <th>Languages</th>
+    <td>Python, JavaScript, C++, C#, COBOL, SQL, R</td>
+  </tr>
+  <tr>
+    <th>Full Stack Development</th>
+    <td>React, HTML, CSS, Node.js, Express.js, EJS rendering, MongoDB, MySQL</td>
+  </tr>
+  <tr>
+    <th>Tools</th>
+    <td>Git, VS Code, Visual Studio 2022, RStudio, Pycharm, XCode</td>
+  </tr>
+  
+</table>
