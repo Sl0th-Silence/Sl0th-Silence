@@ -52,7 +52,7 @@ Through this project, I’ve gained a deep understanding of **full-stack JavaScr
 <br>
 
 <h3 align="center">Technologies</h3>
-<table>
+<table style='width:100%;'>
   <tr>
     <th>Languages</th>
     <td>Python, JavaScript, C++, C#, COBOL, SQL, R</td>
