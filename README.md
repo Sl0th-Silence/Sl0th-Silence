@@ -24,8 +24,7 @@
 **Hello everyone!**
 
 I’m a software developer from **Kingston, Ontario**, currently in my second year of the **Computer Programming and Analysis** program at **St. Lawrence College**.  
-
-After spending five years exploring **Python** and **SQL**, I decided it was time to focus and pursue a formal education in software development.  
+I spent 10 years as a licensed Auto Body Tech while learning **Python** and **SQL** in my spare time then decided it was time to focus and pursue a formal education in software development.  
 
 ---
 
