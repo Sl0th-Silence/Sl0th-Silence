@@ -10,9 +10,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Language](https://img.shields.io/badge/Language-JCL-blue?logo=ibm)
+![System](https://img.shields.io/badge/System-MVS-green?logo=ibm)
+![Platform](https://img.shields.io/badge/Platform-IBM%20z%2FOS-lightgrey?logo=ibm)
+![Type](https://img.shields.io/badge/Type-Mainframe%20Batch%20Processing-orange)
 
 ---
 
