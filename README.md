@@ -5,16 +5,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=cobol&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Language](https://img.shields.io/badge/Language-JCL-blue?logo=ibm)
-![System](https://img.shields.io/badge/System-MVS-green?logo=ibm)
-![Platform](https://img.shields.io/badge/Platform-IBM%20z%2FOS-lightgrey?logo=ibm)
-![Type](https://img.shields.io/badge/Type-Mainframe%20Batch%20Processing-orange)
+![JCL](https://img.shields.io/badge/JCL-0072C6?style=for-the-badge&logo=ibm&logoColor=white)
+![MVS](https://img.shields.io/badge/MVS-008000?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM z/OS](https://img.shields.io/badge/IBM%20z%2FOS-555555?style=for-the-badge&logo=ibm&logoColor=white)
+![Mainframe Batch Processing](https://img.shields.io/badge/Mainframe%20Batch%20Processing-FFA500?style=for-the-badge&logo=ibm&logoColor=white)
+
 
 ---
 
