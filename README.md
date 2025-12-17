@@ -1,6 +1,7 @@
 # **Jay Mills**  
 ## *Software Developer*  
 <div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,6 +16,7 @@
 ![MVS](https://img.shields.io/badge/MVS-008000?style=for-the-badge&logo=ibm&logoColor=white)
 ![IBM z/OS](https://img.shields.io/badge/IBM%20z%2FOS-555555?style=for-the-badge&logo=ibm&logoColor=white)
 ![Mainframe Batch Processing](https://img.shields.io/badge/Mainframe%20Batch%20Processing-FFA500?style=for-the-badge&logo=ibm&logoColor=white)
+
 </div>
 
 
