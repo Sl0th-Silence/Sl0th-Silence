@@ -1,6 +1,6 @@
 # **Jay Mills**  
-### *Software Developer*  
-
+## *Software Developer*  
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,11 +15,12 @@
 ![MVS](https://img.shields.io/badge/MVS-008000?style=for-the-badge&logo=ibm&logoColor=white)
 ![IBM z/OS](https://img.shields.io/badge/IBM%20z%2FOS-555555?style=for-the-badge&logo=ibm&logoColor=white)
 ![Mainframe Batch Processing](https://img.shields.io/badge/Mainframe%20Batch%20Processing-FFA500?style=for-the-badge&logo=ibm&logoColor=white)
+</div>
 
 
 ---
 
-## **Quick About**  
+## <div align="center">**Quick About**</div>
 
 **Hello everyone!**
 
@@ -27,8 +28,8 @@ I’m a software developer from **Kingston, Ontario**, currently in my second ye
 I spent 10 years as a licensed Auto Body Tech while learning **Python** and **SQL** in my spare time then decided it was time to focus and pursue a formal education in software development.  
 
 ---
+<div align="center">## **Projects**</div>
 
-## **Projects**  
 
 ### **Housing Market Site for Kingston**  
 
@@ -53,10 +54,8 @@ Created a **ReactJS frontend** to fetch, parse, and display the data from the AP
 Through this project, I’ve gained a deep understanding of **full-stack JavaScript development** and learned how different tools and technologies integrate to build a cohesive application.  
 
 ---
-
-<br>
 <div align="center">
-<h3 align="center">Technologies</h3>
+<h3 align="center"> ## Technologies</h3>
 <table style="width:100%; border-collapse: collapse; border: 2px solid #666;">
   <tr>
     <th>Languages</th>
