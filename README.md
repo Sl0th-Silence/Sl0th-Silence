@@ -22,7 +22,7 @@
 
 ---
 
-## <div align="center">**Quick About**</div>
+## <div align="center">**Quick About**
 
 **Hello everyone!**
 
@@ -30,7 +30,7 @@ I’m a software developer from **Kingston, Ontario**, currently in my second ye
 I spent 10 years as a licensed Auto Body Tech while learning **Python** and **SQL** in my spare time then decided it was time to focus and pursue a formal education in software development.  
 
 ---
-<div align="center">## **Projects**</div>
+## **Projects**
 
 
 ### **Housing Market Site for Kingston**  
@@ -55,6 +55,7 @@ Created a **ReactJS frontend** to fetch, parse, and display the data from the AP
 
 Through this project, I’ve gained a deep understanding of **full-stack JavaScript development** and learned how different tools and technologies integrate to build a cohesive application.  
 
+</div>
 ---
 <div align="center">
 <h3 align="center"> ## Technologies</h3>
